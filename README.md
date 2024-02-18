@@ -14,3 +14,11 @@ disini menggunakan shirt sebagai objek yang dibuat, karena shirt ini sebagai cuc
 shirt memiliki atribut, method,dll yang ada dari clothe dan product
 
 ![ss](https://github.com/asyqari/LP2DPBO2024C/assets/90365732/4dfdd2f3-1556-4917-8467-a84139bbf7f7)
+
+
+
+**INHERITANCE**
+a.di kasus ini Base dari kelasnya adalah Product karena **product** bersifat **universal**
+b.selanjutnya **Clothing** merupakan anak dari **product** karena **Clothing** termasuk sebagai **jenis** dari produk
+c.Sedangkan **Shirt** merupakan bagian dari **Clothing**
+![inherit drawio](https://github.com/asyqari/LP2DPBO2024C/assets/90365732/610aefe8-aab8-4f70-89c1-378d04b48220)
