@@ -13,3 +13,4 @@ disini menggunakan shirt sebagai objek yang dibuat, karena shirt ini sebagai cuc
 
 shirt memiliki atribut, method,dll yang ada dari clothe dan product
 
+![ss](https://github.com/asyqari/LP2DPBO2024C/assets/90365732/4dfdd2f3-1556-4917-8467-a84139bbf7f7)
