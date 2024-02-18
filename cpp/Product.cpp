@@ -2,9 +2,7 @@
 #include <string>
 using namespace std;
 
-#include "Clothing.cpp"
-
-class Product : public Clothing
+class Product
 {
 private:
     int idProduct;

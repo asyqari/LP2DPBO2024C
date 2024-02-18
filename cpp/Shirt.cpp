@@ -4,9 +4,9 @@
 
 // using std namespace
 using namespace std;
-#include "Product.cpp"
+#include "Clothing.cpp"
 
-class Shirt : public Product
+class Shirt : public Clothing
 {
 private:
     string color;

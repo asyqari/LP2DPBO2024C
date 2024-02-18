@@ -5,7 +5,8 @@
 // using std namespace
 using namespace std;
 
-class Clothing
+#include "Product.cpp"
+class Clothing : public Product
 {
 private:
     string size;
