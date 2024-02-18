@@ -1,6 +1,7 @@
 # LP2DPBO2024C
 Latihan Praktikum 2 DPBO (Inheritance)
-
+/_ Saya Asyqari NIM 2102204 mengerjakan soal LP 2 dalam mata kuliah DPBO untuk keberkahanNya
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. _/
 
 Alur Program
 1. User diminta memasukan n sebagai penentu jumlah data yang ingin di input (objek yg akan dibuat)
